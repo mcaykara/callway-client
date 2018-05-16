@@ -1,0 +1,11 @@
+C:\Users\mehmet\source\repos\Callway.Client\Callway.ConsoleApplication\bin\Debug\Callway.ConsoleApplication.exe.config
+C:\Users\mehmet\source\repos\Callway.Client\Callway.ConsoleApplication\bin\Debug\Callway.ConsoleApplication.exe
+C:\Users\mehmet\source\repos\Callway.Client\Callway.ConsoleApplication\bin\Debug\Callway.ConsoleApplication.pdb
+C:\Users\mehmet\source\repos\Callway.Client\Callway.ConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehmet\source\repos\Callway.Client\Callway.ConsoleApplication\bin\Debug\RestSharp.dll
+C:\Users\mehmet\source\repos\Callway.Client\Callway.ConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehmet\source\repos\Callway.Client\Callway.ConsoleApplication\obj\Debug\Callway.ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\mehmet\source\repos\Callway.Client\Callway.ConsoleApplication\obj\Debug\Callway.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\source\repos\Callway.Client\Callway.ConsoleApplication\obj\Debug\Callway.ConsoleApplication.csproj.CopyComplete
+C:\Users\mehmet\source\repos\Callway.Client\Callway.ConsoleApplication\obj\Debug\Callway.ConsoleApplication.exe
+C:\Users\mehmet\source\repos\Callway.Client\Callway.ConsoleApplication\obj\Debug\Callway.ConsoleApplication.pdb
