@@ -7,8 +7,6 @@ using RestSharp;
 namespace Callway.ConsoleApplication {
     class Program {
         static void Main(string[] args) {
-            var app = new Program();
-
             var channelName = "API_CALLWAY";
             var projectName = "test projesi";
             var originatorName = "DENEME";

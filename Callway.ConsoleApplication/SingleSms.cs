@@ -7,7 +7,7 @@ using RestSharp;
 
 namespace Callway.ConsoleApplication {
     public class SingleSms {
-        private const string BASE_URL = "https://sorgu.callturk.com.tr";
+        private const string BASE_URL = "https://api.callturk.com.tr";
         private const string PRODUCT = "SMS";
 
         public readonly SessionDto Session;
